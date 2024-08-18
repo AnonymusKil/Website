@@ -1,0 +1,79 @@
+width: 272.16px;
+height: 283.3px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 44.55px;
+font-weight: 600;
+line-height: 52.9px;
+text-align: left;
+
+
+font-family: Inter;
+font-size: 11.14px;
+font-weight: 400;
+line-height: 16.71px;
+text-align: left;
+
+
+
+
+.container{
+    margin: 0 auto;
+    /* margin: 0 auto; */
+    max-width: 108rem;
+    margin-top: 2rem;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li a{
+    text-decoration: none;
+    /* list-style: none; */
+    
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.btn{
+    border: none;
+    padding: .5rem;
+}
+.btn-secondary{
+    background-color: #4CAF4F;
+    color: white
+    ;
+}
+.logo{
+    margin-left: 2rem;
+}
+width: 52.19px;
+height: 115.15px;
+top: 16.87px;
+left: 102.48px;
+gap: 0px;
+opacity: 0px;
+
+
+
+
+    <div class="Caring-image">
+          <img src="image/image 18.png" alt="">
+          <!-- <p> Crating Streamlined <br> Safeguarding Processes with <br> OneRen</p> -->
+          <img src="image/image 19.png" alt="">
+          <img src="image/image 20.png" alt="">
+        </div>
+        <div class="Caring-info">
+          <div class="Caring-main-info">
+            <p> Crating Streamlined <br> Safeguarding Processes with <br> OneRen</p>
+          </div>
+          <div class="Caring-main-info">
+            <p> What are your safeguarding <br> responsiblities and how can <br> you manage them</p>
+          </div>
+          <div class="Caring-main-info">
+            <p> Revamping the Membership <br> Model with Triathion <br> Austrailia </p>
+          </div>
